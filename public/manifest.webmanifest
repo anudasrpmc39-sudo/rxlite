@@ -1,0 +1,8 @@
+{
+  "name": "RxLite GP Prescription Writer",
+  "short_name": "RxLite",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f8",
+  "theme_color": "#0f766e"
+}

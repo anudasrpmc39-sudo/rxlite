@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+.DS_Store
+*.log
+.vscode/
+.idea/
+# Never commit local patient exports, backups or database files.
+*.rxlite-backup
+*.backup
+*.db
+*.sqlite
+patient-data/
